@@ -31,3 +31,9 @@ What is written is simple: although the statement indicates that "their order is
 One other solution which is easy for some guys
 
 ![simple...](images/simple_solution.png)
+
+## First lesson : BFS and DFS, you'll need to master
+
+It is Thursday, December 26th, and the event is now over. While trying to complete the 12 puzzles before December 25th, I faced a major problem: I did not properly master the concept of graph traversal (BFS and DFS). Although the 10th puzzle was quite similar, I couldn’t apply it to the 12th puzzle. I believe that with 4 hours ahead of me, I could have done it, but the comments from my colleagues who introduced me to this adventure made it clear that mastering graph theory was necessary.
+
+So now, before tackling other puzzles, I'm going to practice the various algorithms linked to graphs, trees and other grid paths.
